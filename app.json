@@ -1,4 +1,10 @@
 {
   "name": "blankapp",
-  "slug": "blankapp"
+  "slug": "blankapp",
+   "web": {
+    "bundler": "metro"
+  },
+  "plugins": [
+    "expo-router"
+  ]
 }
